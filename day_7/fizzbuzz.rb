@@ -8,7 +8,7 @@ fizzbuzz = []
       elsif num % 5 == 0
         fizzbuzz << "Buzz"
       elsif num % 3 == 0 && num % 5 == 0
-        fizzbuzz << "Buzz"
+        fizzbuzz << "FizzBuzz"
       else
         fizzbuzz << num
       end
